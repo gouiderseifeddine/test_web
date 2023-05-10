@@ -1,16 +1,8 @@
 # test_flutter_web
 
-A new Flutter project.
+A Flutter test project.
 
-## Getting Started
+Like requested
 
-This project is a starting point for a Flutter application.
+![web_readme](https://github.com/gouiderseifeddine/test_web/assets/80106449/f9bb0d59-3cdb-47fd-931b-07b48f0720b1)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
